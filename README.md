@@ -3,4 +3,4 @@ IBMBank
 
 IBMBank POT App
 
-GIT repository for development & sharing of IBMBank Proof of Technology assets.
+App used in multiple stages of the Mobile POT
